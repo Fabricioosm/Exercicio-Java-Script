@@ -1,0 +1,39 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(245, 106, 106, 0.945);
+    max-width: 900px;
+}
+header{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.modificar{
+    background-color: rgb(255, 252, 252);
+    border-radius: 10px;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.514);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.modificar:hover{
+    transform: translateY(-5px);
+}
+button{
+    background-color: rgba(218, 34, 34, 0.479);
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    font: normal 16px Arial;
+    
+}
+button:hover {
+    transform: translateY(-5px);
+}
+
+input{
+    border-radius: 5px;
+    width: 40px;
+    padding: 6px;
+    border: 1px solid;
+}

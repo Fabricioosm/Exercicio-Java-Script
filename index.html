@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade JavaScript</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Exercicio JavaScript</h1>
+    </header>
+    
+    <div class="modificar">
+        <h2>1. Mensagem 'Olá Mundu!'</h2>
+        <button onclick="mostrarmsg()">Mostrar mensagem</button>
+        <div id="mensagem"></div>
+    </div>
+    <div class="modificar">
+        <h2>2. Soma de 2 Números</h2>
+        <input type="number" name="tn1" id="tn1"> +
+        <input type="number" name="tn2" id="tn2">
+        <button onclick="somar()">somar</button>
+        <div id="Res"></div>
+    </div>
+    <div class="modificar">
+        <h2>3. Alterar propriedade por ID</h2>
+        <p id="byid">Texto Original</p>
+        <button onclick="alterarid()">Modificar ID</button>
+    </div>
+    <div class="modificar">
+        <h2>4. Alterar propriedade por NAME</h2>
+        <p name='byname'>Texto por Nome</p>
+        <button onclick="alterarname()">Modificar name</button>
+    </div>
+    <div class="modificar">
+        <h2>5. Alterar propriedade por CLASS</h2>
+        <p class="byclass">Texto por classe</p>
+        <button onclick="alterarclasse()">Modificar class</button>
+    </div>
+    <script src="main.js"></script>
+
+</body>
+</html>
