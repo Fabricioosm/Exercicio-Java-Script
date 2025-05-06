@@ -11,7 +11,7 @@ O Projeto tem como objetivo principal a manipulação do DOM(Document Object Mod
 - Capturar e somar valores de campos numéricos - **Somar dois números**
    - Coleta valores e mostrar a soma 
 
-- Modificar conteúdo HTML - **Modificar conteúdo por ID** - **Modificar conteúdo por NAME** - **Modificar conteúdo por CLASS** 
+- Modificar conteúdo HTML como: **Modificar conteúdo por ID** - **Modificar conteúdo por NAME** - **Modificar conteúdo por CLASS** 
 
 ## 🧩 Tecnologias Utilizadas
 - HTML5
