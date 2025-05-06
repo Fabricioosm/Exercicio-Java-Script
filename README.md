@@ -24,5 +24,5 @@ O Projeto tem como objetivo principal a manipulação do DOM(Document Object Mod
 - ├── main.js - Arquivo com as funções JavaScript
 - └── README.md - Documentação do projeto
 
-🌐 Acesso ao Projeto
+## 🌐 Acesso ao Projeto:
  https://fabricioosm.github.io/Exercicio-Java-Script/
